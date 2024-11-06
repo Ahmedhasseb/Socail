@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./CSS/all.min.css">
+    <link rel="stylesheet" href="./CSS/bootstrap.min.css">
+    <link rel="stylesheet" href="./CSS/style.css">
+    <title>Document</title>
+</head>
+<body>
+    <button class="btn btn-success  m-4" id="OpenAddUser"  onclick="Open()">Add To User</button>
+    <button class="d-none btn btn-success m-4" id="OpenCloseUser" onclick="Close()">Close</button>
+    <section >
+        
+        <div class=" container p-5 bg-light d-none "id="FormAddUser">
+    <form id="addUserForm" onsubmit="event.preventDefault(); addUser();">
+        <input class="form-control m-1" type="text" id="firstName" placeholder="First Name" required>
+        <input class="form-control m1" type="text" id="lastName" placeholder="Last Name" required>
+        <input class="form-control m-1" type="email" id="email" placeholder="Email" required>
+        <input class="form-control m-1" type="date" id="dateOfBirth" required>
+        <button class="btn btn-primary float-sm-end" type="submit">Add User</button>
+            </form>
+        </div>
+    </section>
+    <!----------Display Data For Card------------->
+    <section>
+        <div class="container">
+            <div class="row g-2" id="CardDisplay">
+                
+    
+            </div>
+        </div>
+        <a href="./post.html"></a>
+    </section>
+    <script src="./Js/bootstrap.bundle.min.js"></script>
+    <script src="./Js/index..js"></script>
+</body>
+</html>

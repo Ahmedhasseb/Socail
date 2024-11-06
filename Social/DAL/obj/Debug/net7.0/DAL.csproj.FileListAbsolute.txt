@@ -1,0 +1,14 @@
+G:\ITI\BackEnd\Testing project Back\Social\DAL\bin\Debug\net7.0\DAL.deps.json
+G:\ITI\BackEnd\Testing project Back\Social\DAL\bin\Debug\net7.0\DAL.dll
+G:\ITI\BackEnd\Testing project Back\Social\DAL\bin\Debug\net7.0\DAL.pdb
+G:\ITI\BackEnd\Testing project Back\Social\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI\BackEnd\Testing project Back\Social\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+G:\ITI\BackEnd\Testing project Back\Social\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+G:\ITI\BackEnd\Testing project Back\Social\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+G:\ITI\BackEnd\Testing project Back\Social\DAL\obj\Debug\net7.0\DAL.dll
+G:\ITI\BackEnd\Testing project Back\Social\DAL\obj\Debug\net7.0\refint\DAL.dll
+G:\ITI\BackEnd\Testing project Back\Social\DAL\obj\Debug\net7.0\DAL.pdb
+G:\ITI\BackEnd\Testing project Back\Social\DAL\obj\Debug\net7.0\ref\DAL.dll
+G:\ITI\BackEnd\Testing project Back\Social\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+G:\ITI\BackEnd\Testing project Back\Social\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+G:\ITI\BackEnd\Testing project Back\Social\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache

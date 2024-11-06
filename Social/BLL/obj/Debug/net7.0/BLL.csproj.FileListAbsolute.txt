@@ -1,0 +1,15 @@
+G:\ITI\BackEnd\Testing project Back\Social\BLL\bin\Debug\net7.0\BLL.deps.json
+G:\ITI\BackEnd\Testing project Back\Social\BLL\bin\Debug\net7.0\BLL.dll
+G:\ITI\BackEnd\Testing project Back\Social\BLL\bin\Debug\net7.0\BLL.pdb
+G:\ITI\BackEnd\Testing project Back\Social\BLL\bin\Debug\net7.0\DAL.dll
+G:\ITI\BackEnd\Testing project Back\Social\BLL\bin\Debug\net7.0\DAL.pdb
+G:\ITI\BackEnd\Testing project Back\Social\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+G:\ITI\BackEnd\Testing project Back\Social\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI\BackEnd\Testing project Back\Social\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+G:\ITI\BackEnd\Testing project Back\Social\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+G:\ITI\BackEnd\Testing project Back\Social\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+G:\ITI\BackEnd\Testing project Back\Social\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+G:\ITI\BackEnd\Testing project Back\Social\BLL\obj\Debug\net7.0\BLL.dll
+G:\ITI\BackEnd\Testing project Back\Social\BLL\obj\Debug\net7.0\refint\BLL.dll
+G:\ITI\BackEnd\Testing project Back\Social\BLL\obj\Debug\net7.0\BLL.pdb
+G:\ITI\BackEnd\Testing project Back\Social\BLL\obj\Debug\net7.0\ref\BLL.dll

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./CSS/all.min.css">
+    <link rel="stylesheet" href="./CSS/bootstrap.min.css">
+    <title>Post</title>
+</head>
+<body>
+    <h1 class="text-center">User Posts</h1>
+    <button class="btn btn-success mt-3" id="OpenAddUser"  onclick="Open()">Add To Post</button>
+    <button class="d-none btn btn-success mt-3" id="OpenCloseUser" onclick="Close()">Close</button>
+    <section >
+        
+        <div class="container" >
+    <form class=" bg-light d-none " id="FormAddPost" onsubmit="event.preventDefault(); addPost();">
+        <input class="form-control m-1" type="text" id="title" placeholder="title post" required>
+        <input class="form-control m1" type="text" id="content" placeholder="content post" required>
+        
+        
+        <button class="btn btn-primary float-sm-end" type="submit">Add Post</button>
+            </form>
+        </div>
+    </section>
+    <div class="container">
+        <table class="table">
+            <thead>
+              <tr>
+                <th scope="col">#</th>
+                <th scope="col">TiTle</th>
+                <th scope="col">Content</th>
+                <th scope="col">User Name</th>
+                <th scope="col">On Post</th>
+                <th scope="col">Edit</th>
+                <th scope="col">Delete</th>
+              </tr>
+            </thead>
+            <tbody id="userPosts">
+            
+           
+            </tbody>
+          </table>
+    </div>
+    
+    <script src="./Js/post.js"></script>
+</body>
+</html>
